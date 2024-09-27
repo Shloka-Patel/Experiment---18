@@ -8,7 +8,7 @@ Menu options - <ol><li> Push </li> <li> Pop </li> <li>Display</li><li>Exit</li><
 Visual Studio Code 
 
 ### Theory 
-
+A <b>Stack<b>
 ### Code
 
 ### Output 
