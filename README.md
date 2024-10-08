@@ -272,7 +272,7 @@ int main()
 ![](https://github.com/Shloka-Patel/Experiment---18/blob/main/Output_18A.png) 
 
 (B) <br> 
-![]() 
+![](https://github.com/Shloka-Patel/Experiment---18/blob/main/Output_18B.png) 
 
 (C) <br> 
 ![]() 
