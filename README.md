@@ -19,11 +19,18 @@ A <b>Stack</b> is an abstract data stucture that contains a collection of elemen
 ```
 ```
 
+(C) 
+```
+```
+
 ### Output 
-(A) 
+(A) <br> 
 ![]() 
 
-(B) 
+(B) <br> 
+![]() 
+
+(C) <br> 
 ![]() 
 
 ### Conclusion 
