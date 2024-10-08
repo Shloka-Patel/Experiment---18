@@ -279,5 +279,4 @@ int main()
 
 ### Conclusion 
 Stacks are widely used in programming for tasks like reversing data, backtracking, expression evaluation (infix, postfix, prefix), and function call management in recursion. By ensuring efficient access to the most recently added elements, stacks are particularly useful in scenarios where a restricted form of access to data is required.
-
-In C++, the stack can be implemented both manually (using arrays or linked lists) 
+In C++, the stack can be implemented both manually (using arrays or linked lists).  
